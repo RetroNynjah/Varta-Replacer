@@ -12,6 +12,7 @@ This is the footprint of the mounting pins. Make sure that they match your insta
 The mounting pins can be bent a bit to fit other footprints if they are close enough.
 
 <img src="rev 1\images\bottom_measures.png" alt="Mounting footprint"/><br/>
+Measurements are in millimeters.
 
 ## Soldering
 Start by soldering all components on the bottom side. Add whatever mounting pins you need for your installation. If you don't know what you will use the bord for you should install all four pins and trim off the ones you don't need when installing the board.
